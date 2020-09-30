@@ -1,1 +1,1 @@
-https://youtu.be/7fLnF7VBjas
+Customized signalR Client-server with custom hubs..
